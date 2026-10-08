@@ -1,0 +1,15 @@
+RETURN POLICY
+
+Customers can return delivered products within 7 days of the delivery date.
+
+Damaged products are eligible for return verification.
+
+The customer must provide the order ID and the reason for the return.
+
+The return request must be verified before a refund is approved.
+
+A full refund may be issued after successful return verification.
+
+Products that are outside the 7-day return window are normally not eligible for return.
+
+The return policy applies only to delivered products.

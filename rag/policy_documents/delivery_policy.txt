@@ -1,0 +1,11 @@
+DELIVERY POLICY
+
+Customers can check the shipment status using their tracking ID.
+
+If a shipment is delayed beyond the promised delivery date, the issue should be investigated.
+
+If a delivery is significantly delayed, the customer support team may escalate the issue.
+
+The updated estimated delivery date should be communicated to the customer when available.
+
+Customers should not be given a delivery date that is not present in the shipment information.
